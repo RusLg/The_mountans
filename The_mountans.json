@@ -2,8 +2,9 @@
     "manifest": {
         "version": "1.2.9",
         "name": "The Mountain",
-        "author": "NotMeShutUpIMNOTRUSLG#4455",
-        "license": " "
+        "license": " ",
+        "author": "NotMeShutUpIMNOTRUSLG#4455"
+
     },
     "background": {
         "overlay_alpha": 155,
